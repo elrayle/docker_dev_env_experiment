@@ -133,7 +133,7 @@ CRAWLER_QUEUE_PROVIDER=memory
 CRAWLER_STORE_PROVIDER=cd(file)
 ```
 
-Now, from withing your **docker_dev_env_experiment** directory, run:
+Now, from within your **docker_dev_env_experiment** directory, run:
 
 ```bash
 $ docker-compose build
